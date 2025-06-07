@@ -11,10 +11,14 @@
             "id": "d6ebf9971bfe2d9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Learning markdown/Testing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Testing"
             }
           }
         ]
@@ -167,6 +171,8 @@
   },
   "active": "d6ebf9971bfe2d9c",
   "lastOpenFiles": [
+    "Learning markdown/Testing.md",
+    "Learning markdown",
     "Untitled 1.png",
     "Untitled 2.png",
     "Untitled 3.png",
@@ -184,7 +190,6 @@
     "image 45.png",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/Binary Search Tree/Geometric application of BSTs/Geometric application of BSTs.md",
     "image 10 7.png",
-    "image 9 9.png",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/2-3 Tree/Left-leaning Red-Black Tree/Left-leaning Red-Black Tree.md",
     "Notion/Programming Journey/Data structures and Algorithms/Algorithms/Analysis of Algorithms/Memory/Memory.md",
     "Notion/Programming Journey/Data structures and Algorithms/Algorithms/Analysis of Algorithms/Mathematical Models and more/Mathematical Models and more.md",
@@ -211,7 +216,6 @@
     "NMCNTT-4-Data-Manipulation_AAA_(1)_(3).pdf",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/Binary Search Tree/Geometric application of BSTs",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/2-3 Tree/Left-leaning Red-Black Tree",
-    "Notion/Programming Journey/Data structures and Algorithms/Algorithms/Analysis of Algorithms/Memory",
-    "Notion/Programming Journey/Data structures and Algorithms/Algorithms/Analysis of Algorithms/Mathematical Models and more"
+    "Notion/Programming Journey/Data structures and Algorithms/Algorithms/Analysis of Algorithms/Memory"
   ]
 }
