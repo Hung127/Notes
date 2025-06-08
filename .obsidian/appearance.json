@@ -3,5 +3,8 @@
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Noto Sans Regular",
   "textFontFamily": "Noto Sans Regular",
-  "monospaceFontFamily": "Fira Code Retina"
+  "monospaceFontFamily": "Fira Code Retina",
+  "cssTheme": "Atom",
+  "theme": "obsidian",
+  "baseFontSize": 18
 }

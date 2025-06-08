@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c98be22a79b72a7",
+        "id": "ea0f0de0c331940d",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ebf9971bfe2d9c",
+            "id": "79e49fd58e23f501",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb1d504b8bb09322",
@@ -170,10 +169,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d6ebf9971bfe2d9c",
+  "active": "79e49fd58e23f501",
   "lastOpenFiles": [
-    "Learning markdown/Testing.md",
     "README.md",
+    "Learning markdown/Testing.md",
     "Learning markdown",
     "Untitled 1.png",
     "Untitled 2.png",
