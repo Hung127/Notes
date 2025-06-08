@@ -13,16 +13,22 @@ void func(int n) {
 }
 ```
 
-I think that I should make this text **bold**
-Or maybe *tilt*
-Or even ***tilt and bold***?
-Do you want to watch [Youtube](https://youtube.com)
-I am learning markdown through [this book](https://dl.icdst.org/pdfs/files3/c79990b0b853932d36ddc117ce2503e3.pdf)
-I am testing the link, can you go to my [[README]]?
-I am using [Github](https://github.com) to *sync* my notes!
+I think that I should make this text **bold**  
+Or maybe *tilt*  
+Or even ***tilt and bold***?  
+Do you want to watch [Youtube](https://youtube.com)  
+I am learning markdown through [this book](https://dl.icdst.org/pdfs/files3/c79990b0b853932d36ddc117ce2503e3.pdf)  
+I am testing the link, can you go to my [[README]]?  
+I am using [Github](https://github.com) to *sync* my notes!  
 This is a list
 - first thing
 - Second thing
 - Third thing
 - Hello 🤓
 #test 
+
+This is an alternate syntax for heading level 1, just use "\=\=\=\=..."  
+Just like this
+=
+HELLO, *again*  
+hey :)  
