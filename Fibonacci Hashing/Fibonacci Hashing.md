@@ -20,3 +20,20 @@ Now I can do easily add more leafs into my circle without worrying about overlap
 ![[golden-ratio-animation.gif]]
 ## Fibonacci hashing
 ![[Pasted image 20250608201731.png]]
+Normally, we let a = 2654435759. Why?
+We can get a from this
+$$
+a \approx 2^{32} \times (1 -\phi)
+$$
+Or we can claim that $a \approx (2^{32} \times \phi) \text{ truncated to 32 bits number}$.
+**WHY?**
+We got 
+$$
+	\begin{cases}
+		2^{32} \times \phi \approx 6949403065_{10} \\
+		6949403065_{10} = 110011110001101110111100110101110_{2} \\
+	\end{cases}
+$$
+$$
+	\Rightarrow 6949403065_{10} \text { truncated to 32 bits is } 10011110001101110111100110101110_{2} = 2654435758_{10}
+$$
