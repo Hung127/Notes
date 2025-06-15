@@ -14,7 +14,7 @@ $$
 	\phi \approx1.61803398875
 $$
 $$
-	\alpha =\frac{360\degree}{\phi}\approx 137.5\degree
+	\alpha =360 - \frac{360\degree}{\phi}\approx 137.5\degree
 $$
 Now I can do easily add more leafs into my circle without worrying about overlapping.
 ![[golden-ratio-animation.gif]]
