@@ -23,14 +23,12 @@
             "id": "c18bb3561d02cddf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Computer Network/Wireless Networks and Standards.md",
-                "mode": "source",
-                "source": false
+                "file": "Material/Pasted image 20250710223600.png"
               },
-              "icon": "lucide-file",
-              "title": "Wireless Networks and Standards"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250710223600"
             }
           },
           {
@@ -62,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb1d504b8bb09322",
@@ -223,21 +220,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4362b3726468ea99",
+  "active": "717c71a1df895b0f",
   "lastOpenFiles": [
+    "Material/Pasted image 20250710233443.png",
+    "Material/Pasted image 20250710223600.png",
     "Computer Network/Wireless Networks and Standards.md",
-    "Computer Network/Models, Standards, Protocols, and Ports.md",
     "Computer Network/Wireless technologies.md",
-    "Pasted image 20250710233443.png",
-    "Pasted image 20250710233416.png",
-    "Pasted image 20250710233344.png",
-    "Pasted image 20250710233248.png",
-    "Pasted image 20250710232847.png",
-    "Pasted image 20250710232818.png",
-    "Pasted image 20250710232600.png",
-    "Pasted image 20250710232413.png",
-    "Pasted image 20250710231914.png",
-    "Pasted image 20250710225813.png",
+    "Computer Network/Models, Standards, Protocols, and Ports.md",
+    "Material/Pasted image 20250710233416.png",
+    "Material/Pasted image 20250710233344.png",
+    "Material/Pasted image 20250710233248.png",
+    "Material/Pasted image 20250710232847.png",
+    "Material/Pasted image 20250710232818.png",
+    "Material/Pasted image 20250710232600.png",
+    "Material/Pasted image 20250710232413.png",
+    "Material/Pasted image 20250710231914.png",
+    "Material/Pasted image 20250710225813.png",
     "Computer Network/Networking hardware devices.md",
     "Learning markdown/Testing.md",
     "README.md",
