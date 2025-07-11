@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.3">
+  <diagram name="Page-1" id="3LA1MJAMfuL72ainnDFL">
+    <mxGraphModel dx="819" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eyWNPrublUyDDldCrIvy-1" value="Router" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="50" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-2" value="Switch" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=top;html=1;verticalAlign=bottom;aspect=fixed;align=left;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eyWNPrublUyDDldCrIvy-2" target="eyWNPrublUyDDldCrIvy-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-4" value="Laptop" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="170" y="344.48" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-5" value="PC" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.pc;network2IconYOffset=-0.0593;network2IconW=0.9999;network2IconH=0.7096;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320.01" y="350" width="49.995" height="35.480000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-6" value="Printer" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.printer;network2IconW=1;network2IconH=1.04;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="480" y="333.48" width="50" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.56;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eyWNPrublUyDDldCrIvy-2" target="eyWNPrublUyDDldCrIvy-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="500" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="508" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eyWNPrublUyDDldCrIvy-2" target="eyWNPrublUyDDldCrIvy-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="190" y="265" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="195" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.52;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eyWNPrublUyDDldCrIvy-2" target="eyWNPrublUyDDldCrIvy-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-10" value="Modem" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.modem;" vertex="1" parent="1">
+          <mxGeometry x="440" y="70" width="54" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.87;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eyWNPrublUyDDldCrIvy-1" target="eyWNPrublUyDDldCrIvy-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="230" as="sourcePoint" />
+            <mxPoint x="450" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-15" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
+          <mxGeometry x="560" y="62" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNPrublUyDDldCrIvy-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="eyWNPrublUyDDldCrIvy-10" target="eyWNPrublUyDDldCrIvy-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="230" as="sourcePoint" />
+            <mxPoint x="450" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

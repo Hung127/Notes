@@ -97,7 +97,7 @@ A firewall monitors and controls incoming and outgoing network traffic based on 
 - Evaluate requests from clients and forward requests to the appropriate server *if those requests meet security requirements*
 - Hide an IP address
 - Save bandwidth
-	- Example: download files, updates for one user, reuse for more users if needed.
+- Example: download files, updates for one user, reuse for more users if needed.
 ### IDS (Intrusion Detection System)
 Monitor network traffic and report malicious activity
 ### IPS (Intrusion Prevention System)
