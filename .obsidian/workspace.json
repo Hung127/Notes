@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "IP Address Structure and Network Classes"
             }
+          },
+          {
+            "id": "6c45dafadd47fe72",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Material/Pasted image 20250714000042.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250714000042"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,20 +195,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5028bb14ee101971",
+  "active": "6c45dafadd47fe72",
   "lastOpenFiles": [
-    "Pasted image 20250712225838.png",
-    "Pasted image 20250712225549.png",
-    "Pasted image 20250712225518.png",
-    "Pasted image 20250712225421.png",
-    "Pasted image 20250712225346.png",
-    "Pasted image 20250712225235.png",
-    "Pasted image 20250712225025.png",
-    "Material/Pasted image 20250712223428.png",
+    "Computer Network/IP Protocol and Traffic Routing.md",
+    "Material/Pasted image 20250714000042.png",
+    "Material/Pasted image 20250714000004.png",
+    "Material/Pasted image 20250713235858.png",
+    "Material/Pasted image 20250713235619.png",
+    "Material/Pasted image 20250713231345.png",
+    "Material/Pasted image 20250713231034.png",
+    "Material/Pasted image 20250713224923.png",
+    "Material/Pasted image 20250713222820.png",
+    "Computer Network/Wireless technologies.md",
+    "Material/Pasted image 20250712225025.png",
     "Computer Network/IP Address Structure and Network Classes.md",
-    "Pasted image 20250712224915.png",
-    "Material/Pasted image 20250712224804.png",
-    "Material/Pasted image 20250712224007.png",
+    "Material/Pasted image 20250712225838.png",
     "Computer Network/Networking hardware devices.md",
     "Computer Network/Models, Standards, Protocols, and Ports.md",
     "Computer Network/Drawing/Ex2.drawio",
@@ -205,7 +219,6 @@
     "Drawing/MyFirstNetwork.drawio",
     "Drawing",
     "Computer Network/Protocol table.md",
-    "Computer Network/Wireless technologies.md",
     "Computer Network/Wireless Networks and Standards.md",
     "Learning markdown/Testing.md",
     "README.md",
@@ -229,7 +242,6 @@
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Weighted Shortest Path/Shortest path in DAG/Shortest path in DAG.md",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/Binary Search Tree/Binary Search Tree.md",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/2-3 Tree/2-3 Tree.md",
-    "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/AVL Tree/AVL Tree.md",
-    "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary Heap/Priority queues/Priority queues.md"
+    "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/AVL Tree/AVL Tree.md"
   ]
 }
