@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ce12e0d7863c506",
+            "id": "24e0a9a0dd328e12",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Material/Pasted image 20250715234945.png"
+                "file": "Computer Network/Basics of Network Routing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250715234945"
+              "icon": "lucide-file",
+              "title": "Basics of Network Routing"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb1d504b8bb09322",
@@ -179,21 +182,25 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "717c71a1df895b0f",
+  "active": "24e0a9a0dd328e12",
   "lastOpenFiles": [
-    "Computer Network/IPv6.md",
-    "Material/Pasted image 20250716000049.png",
-    "Material/Pasted image 20250715235940.png",
-    "Material/Pasted image 20250715235819.png",
-    "Material/Pasted image 20250715235742.png",
-    "Material/Pasted image 20250715235358.png",
-    "Material/Pasted image 20250715235124.png",
-    "Material/Pasted image 20250715235031.png",
+    "Pasted image 20250716231658.png",
+    "Pasted image 20250716231407.png",
+    "Pasted image 20250716231117.png",
     "Computer Network/IP Address Structure and Network Classes.md",
     "Material/Pasted image 20250715234945.png",
-    "Material/Pasted image 20250714000042.png",
+    "Computer Network/Basics of Network Routing.md",
+    "JS/JS.md",
+    "Material/Pasted image 20250716202727.png",
+    "Material/Pasted image 20250716204558.png",
+    "Material/Pasted image 20250716204056.png",
+    "Material/Pasted image 20250716203558.png",
+    "Material/Pasted image 20250716203251.png",
+    "Material/Pasted image 20250716201708.png",
+    "JS",
+    "Computer Network/IPv6.md",
+    "Material/Pasted image 20250716000049.png",
     "Computer Network/IP Protocol and Traffic Routing.md",
-    "Material/Pasted image 20250714000004.png",
     "Computer Network/Wireless technologies.md",
     "Computer Network/Networking hardware devices.md",
     "Computer Network/Models, Standards, Protocols, and Ports.md",
@@ -216,7 +223,6 @@
     "Notion/Programming Journey/Data structures and Algorithms/Data structures and Algorithms.md",
     "Notion/Learn writing on Coursera/About books.md",
     "OCR 2.pdf",
-    "OCR.pdf",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/Binary Search Tree/Geometric application of BSTs/Geometric application of BSTs.md",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/2-3 Tree/Left-leaning Red-Black Tree/Left-leaning Red-Black Tree.md",
     "Notion/Programming Journey/Data structures and Algorithms/Algorithms/Analysis of Algorithms/Memory/Memory.md",
@@ -224,8 +230,6 @@
     "Notion/Programming Journey/Data structures and Algorithms/Algorithms/Analysis of Algorithms/Observation/Observation.md",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Weighted Shortest Path/Dijkstra/Dijkstra.md",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Weighted Shortest Path/Bellman-Ford/Bellman-Ford.md",
-    "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Weighted Shortest Path/Shortest path in DAG/Shortest path in DAG.md",
-    "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/Binary Search Tree/Binary Search Tree.md",
-    "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/2-3 Tree/2-3 Tree.md"
+    "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Weighted Shortest Path/Shortest path in DAG/Shortest path in DAG.md"
   ]
 }
