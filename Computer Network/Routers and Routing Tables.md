@@ -6,3 +6,4 @@
 ## Components
 ![[Pasted image 20250717234732.png]]
 ![[Pasted image 20250717235052.png]]
+![[Pasted image 20250717235839.png]]

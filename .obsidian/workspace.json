@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/Layer 2 and Layer 3 Addressing.md",
+                "file": "Computer Network/Routers and Routing Tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layer 2 and Layer 3 Addressing"
+              "title": "Routers and Routing Tables"
             }
           }
         ]
@@ -183,9 +183,15 @@
   },
   "active": "ff061ea6b431fba6",
   "lastOpenFiles": [
+    "Pasted image 20250717235839.png",
+    "Computer Network/Wireless Networks and Standards.md",
+    "Computer Network/Wireless technologies.md",
+    "Computer Network/Basics of Network Routing.md",
+    "Computer Network/IP Protocol and Traffic Routing.md",
+    "Computer Network/Protocol table.md",
+    "Computer Network/Layer 2 and Layer 3 Addressing.md",
     "Computer Network/Models, Standards, Protocols, and Ports.md",
     "Computer Network/Networking hardware devices.md",
-    "Computer Network/Protocol table.md",
     "Material/Pasted image 20250717233827.png",
     "Material/Pasted image 20250717235052.png",
     "Computer Network/Routers and Routing Tables.md",
@@ -194,25 +200,20 @@
     "Material/Pasted image 20250717234411.png",
     "Material/Pasted image 20250717234057.png",
     "Material/Pasted image 20250717233910.png",
-    "Computer Network/Layer 2 and Layer 3 Addressing.md",
     "Computer Network/ARP.md",
     "Material/Pasted image 20250717224212.png",
     "Material/Pasted image 20250717230848.png",
     "Material/Pasted image 20250717225155.png",
-    "Computer Network/Basics of Network Routing.md",
     "Computer Network/IP Address Structure and Network Classes.md",
     "JS/JS.md",
     "JS",
     "Computer Network/IPv6.md",
-    "Computer Network/IP Protocol and Traffic Routing.md",
-    "Computer Network/Wireless technologies.md",
     "Computer Network/Drawing/Ex2.drawio",
     "Computer Network/Drawing/Ex1.drawio",
     "Computer Network/Drawing/MyFirstNetwork.drawio",
     "Computer Network/Drawing",
     "Drawing/MyFirstNetwork.drawio",
     "Drawing",
-    "Computer Network/Wireless Networks and Standards.md",
     "Learning markdown/Testing.md",
     "README.md",
     "Computer Network",
