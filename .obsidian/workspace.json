@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/JS DOM.md",
+                "file": "Learning markdown/Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS DOM"
+              "title": "Testing"
             }
           }
         ],
@@ -172,8 +172,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -186,20 +186,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b07794c540b3a2cc",
   "lastOpenFiles": [
-    "Material/Pasted image 20250717235839.png",
     "JS/JS DOM.md",
+    "Material/Pasted image 20250717235839.png",
     "Material/Pasted image 20250718205123.png",
     "Material/Pasted image 20250718205005.png",
     "Material/Pasted image 20250718204736.png",
