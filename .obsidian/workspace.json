@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/Routers and Routing Tables.md",
+                "file": "JS/JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Routers and Routing Tables"
+              "title": "JS"
+            }
+          },
+          {
+            "id": "98347c7637ed0eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Network/Application and Transport Protocols.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Application and Transport Protocols"
             }
           },
           {
@@ -93,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb1d504b8bb09322",
@@ -196,20 +211,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b07794c540b3a2cc",
+  "active": "98347c7637ed0eb7",
   "lastOpenFiles": [
+    "Pasted image 20250721234812.png",
+    "Pasted image 20250721234750.png",
+    "Pasted image 20250721234626.png",
+    "Pasted image 20250721234210.png",
+    "Pasted image 20250721234114.png",
+    "Pasted image 20250721234026.png",
+    "Pasted image 20250721233935.png",
+    "JS/JS.md",
+    "Computer Network/Application and Transport Protocols.md",
+    "Computer Network/Routers and Routing Tables.md",
+    "Learning markdown/Testing.md",
     "JS/JS DOM.md",
     "Material/Pasted image 20250717235839.png",
     "Material/Pasted image 20250718205123.png",
     "Material/Pasted image 20250718205005.png",
     "Material/Pasted image 20250718204736.png",
-    "Material/Pasted image 20250718204350.png",
-    "Material/Pasted image 20250718204339.png",
-    "Material/Pasted image 20250718202952.png",
-    "Material/Pasted image 20250718201039.png",
-    "Material/Pasted image 20250718200937.png",
-    "Material/Pasted image 20250718200921.png",
-    "Computer Network/Routers and Routing Tables.md",
     "Computer Network/Wireless Networks and Standards.md",
     "Computer Network/Wireless technologies.md",
     "Computer Network/Basics of Network Routing.md",
@@ -220,7 +239,6 @@
     "Computer Network/Networking hardware devices.md",
     "Computer Network/ARP.md",
     "Computer Network/IP Address Structure and Network Classes.md",
-    "JS/JS.md",
     "JS",
     "Computer Network/IPv6.md",
     "Computer Network/Drawing/Ex2.drawio",
@@ -229,7 +247,6 @@
     "Computer Network/Drawing",
     "Drawing/MyFirstNetwork.drawio",
     "Drawing",
-    "Learning markdown/Testing.md",
     "README.md",
     "Computer Network",
     "Untitled.canvas",
@@ -242,7 +259,6 @@
     "OCR 2.pdf",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/Binary Search Tree/Geometric application of BSTs/Geometric application of BSTs.md",
     "Notion/Programming Journey/Data structures and Algorithms/Data Structures/Binary tree/2-3 Tree/Left-leaning Red-Black Tree/Left-leaning Red-Black Tree.md",
-    "Notion/Programming Journey/Data structures and Algorithms/Algorithms/Analysis of Algorithms/Memory/Memory.md",
-    "Notion/Programming Journey/Data structures and Algorithms/Algorithms/Analysis of Algorithms/Mathematical Models and more/Mathematical Models and more.md"
+    "Notion/Programming Journey/Data structures and Algorithms/Algorithms/Analysis of Algorithms/Memory/Memory.md"
   ]
 }
