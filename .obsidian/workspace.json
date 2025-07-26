@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a2a5130feb7d5110",
+        "id": "475844b393a6fa15",
         "type": "tabs",
         "children": [
           {
-            "id": "1c9467b51bc48b74",
+            "id": "df69b7260ec4dee4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Minecraft with docker.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Minecraft with docker"
-            }
-          },
-          {
-            "id": "ca7499eb69244c37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Duck dns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Duck dns"
-            }
-          },
-          {
-            "id": "0097695a5d219563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Commands"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
