@@ -2,6 +2,7 @@ When running a service via [[Containers]], we'll want to access it via `localhos
 how to do port binding? [[Commands]]
 `docker run -p {HOST_PORT}:{PORT_ON_CONTAINER} {name}:{tag}`
 Now we can access the service via
+To choose the right port, look at [[Protocol table]]
 ``` txt
 localhost:{HOST_PORT}
 or
