@@ -33,4 +33,12 @@ docker run -p {HOST_PORT}:{PORT_ON_CONTAINER} {name}:{tag}
 
 # We can give container a name using --name when run it
 docker run --name hello-world...
+
+# -t flag (--tty)
+docker run -t ...
+# Allocates a pseudo-TTY (terminal) for the container. This enables terminal features like a shell prompt and colored output.
+
+# -i flag (--interactive)
+docker run -i
+#Keeps STDIN (standard input) open even if not attached. This allows you to interact with the container (such as typing commands).
 ```

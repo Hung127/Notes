@@ -8,7 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78016624b7f3254e",
+            "id": "1c9467b51bc48b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Minecraft with docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Minecraft with docker"
+            }
+          },
+          {
+            "id": "ca7499eb69244c37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Duck dns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Duck dns"
+            }
+          },
+          {
+            "id": "0097695a5d219563",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +49,8 @@
               "title": "Commands"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,14 +210,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78016624b7f3254e",
+  "active": "ca7499eb69244c37",
   "lastOpenFiles": [
+    "Docker/Minecraft with docker.md",
+    "Docker/Docker registries.md",
+    "Docker/Commands.md",
+    "Docker/Duck dns.md",
+    "Material/Pasted image 20250726001647.png",
     "Docker/Containers.md",
     "Docker/Port binding.md",
-    "Docker/Commands.md",
     "Docker/Images.md",
     "JS/JS DOM.md",
-    "Docker/Docker registries.md",
     "Computer Network/Protocol table.md",
     "Computer Network/Routers and Routing Tables.md",
     "Computer Network/Wireless technologies.md",
@@ -196,8 +228,7 @@
     "Computer Network/Application and Transport Protocols.md",
     "JS/JS.md",
     "Fibonacci Hashing/Docker hub.md",
-    "Pasted image 20250726002800.png",
-    "Pasted image 20250726001647.png",
+    "Material/Pasted image 20250726002800.png",
     "Docker",
     "JS/React.md",
     "Material/Pasted image 20250723210000.png",
@@ -224,11 +255,8 @@
     "Computer Network/Drawing",
     "Drawing/MyFirstNetwork.drawio",
     "Drawing",
-    "README.md",
     "Computer Network",
     "Untitled.canvas",
-    "GIT&VCS.md",
-    "Learning markdown",
-    "Notion/My name’s Khanh Ngoc.md"
+    "Learning markdown"
   ]
 }
