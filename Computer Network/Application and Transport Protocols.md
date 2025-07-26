@@ -1,3 +1,4 @@
+This is the Application layer and Transport layer in OSI and TCP/IP model [[Models, Standards, Protocols, and Ports]]
 # Transport control protocol (TCP)
 ![[Pasted image 20250721233935.png]]
 ## TCP packet headers

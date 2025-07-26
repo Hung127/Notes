@@ -1,3 +1,4 @@
+Each hardware is belong to a layer in OSI and TCP/IP model [[Models, Standards, Protocols, and Ports]]
 # Networking hardware devices 
 Enable communication and interaction on a computer network:
 - Cables

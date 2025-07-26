@@ -41,5 +41,6 @@ Together, these protocols provide a complete networking solution
 ![[Pasted image 20250710214540.png]]
 # Ports
 ![[Pasted image 20250710214743.png]]
+This is some ports services [[Protocol table]]
 # Socket
 ![[Pasted image 20250710215112.png]]

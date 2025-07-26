@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "475844b393a6fa15",
+        "id": "bf67b584ce54a0cd",
         "type": "tabs",
         "children": [
           {
-            "id": "df69b7260ec4dee4",
+            "id": "4a7d2f9449549c46",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5
   },
   "right": {
     "id": "bb1d504b8bb09322",
@@ -177,22 +177,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "717c71a1df895b0f",
+  "active": "4a7d2f9449549c46",
   "lastOpenFiles": [
-    "Docker/Minecraft with docker.md",
-    "Docker/Docker registries.md",
-    "Docker/Commands.md",
-    "Docker/Duck dns.md",
-    "Material/Pasted image 20250726001647.png",
-    "Docker/Containers.md",
-    "Docker/Port binding.md",
-    "Docker/Images.md",
-    "JS/JS DOM.md",
-    "Computer Network/Protocol table.md",
+    "!NOTES.md",
+    "Computer Network/Wireless Networks and Standards.md",
+    "Computer Network/IP Address Structure and Network Classes.md",
+    "Computer Network/Layer 2 and Layer 3 Addressing.md",
+    "Computer Network/IP Protocol and Traffic Routing.md",
+    "Computer Network/Basics of Network Routing.md",
+    "Computer Network/Networking hardware devices.md",
+    "Computer Network/Models, Standards, Protocols, and Ports.md",
     "Computer Network/Routers and Routing Tables.md",
     "Computer Network/Wireless technologies.md",
-    "Computer Network/Wireless Networks and Standards.md",
+    "Computer Network/ARP.md",
+    "Computer Network/IPv6.md",
+    "Computer Network/Protocol table.md",
     "Computer Network/Application and Transport Protocols.md",
+    "Docker/Commands.md",
+    "Docker/Port binding.md",
+    "Docker/Minecraft with docker.md",
+    "Docker/Images.md",
+    "Docker/Duck dns.md",
+    "Docker/Docker registries.md",
+    "Material/Pasted image 20250726001647.png",
+    "Docker/Containers.md",
+    "JS/JS DOM.md",
     "JS/JS.md",
     "Fibonacci Hashing/Docker hub.md",
     "Material/Pasted image 20250726002800.png",
@@ -207,15 +216,7 @@
     "Material/Pasted image 20250723210000 1.png",
     "Material/Pasted image 20250723205806.png",
     "Learning markdown/Testing.md",
-    "Computer Network/Basics of Network Routing.md",
-    "Computer Network/IP Protocol and Traffic Routing.md",
-    "Computer Network/Layer 2 and Layer 3 Addressing.md",
-    "Computer Network/Models, Standards, Protocols, and Ports.md",
-    "Computer Network/Networking hardware devices.md",
-    "Computer Network/ARP.md",
-    "Computer Network/IP Address Structure and Network Classes.md",
     "JS",
-    "Computer Network/IPv6.md",
     "Computer Network/Drawing/Ex2.drawio",
     "Computer Network/Drawing/Ex1.drawio",
     "Computer Network/Drawing/MyFirstNetwork.drawio",

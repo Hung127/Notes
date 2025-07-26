@@ -40,3 +40,4 @@ IP addresses also have components like: network masks, IP address prefixes and d
 ![[Pasted image 20250714000004.png]]
 # Default gateway
 ![[Pasted image 20250714000042.png]]
+The default gateway is the ip of router in the network (usually) [[Routers and Routing Tables]]

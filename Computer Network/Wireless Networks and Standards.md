@@ -22,4 +22,4 @@ Provide regional, nationwide, global wireless coverage. This includes private ne
 >IEE 802.20 is no longer developed, but still used
 
 
-About wireless technologies [[Wireless technologies]]
+About wireless technologies that use wireless network [[Wireless technologies]]

@@ -1,3 +1,4 @@
+IP address is a layer 3 address in TCP/IP and OSI models [[Models, Standards, Protocols, and Ports]]
 # IPv4
 ![[Pasted image 20250712223428.png]]
 ## Parts of IPv4

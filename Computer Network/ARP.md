@@ -1,1 +1,2 @@
 ![[Pasted image 20250717230848.png]]
+When a device (A) want to `ping` another device via IP address but it hasn't gotten the IP of the target (B) yet, A would send a packet (we call [[ARP]] packet) to the boardcast address `FFFF:FFFF:...` to know which MAC address own that IP address. What is MAC address? See [[Layer 2 and Layer 3 Addressing]]
