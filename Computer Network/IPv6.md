@@ -1,4 +1,4 @@
-# Compared to IPv4 [[IP Address Structure and Network Classes]]
+# Compared to IPv4 [[IPv4 Structure and Network Classes]]
 ![[Pasted image 20250715234945.png]]
 ![[Pasted image 20250715235031.png]]
 # IPv6

@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "Noto Sans Regular",
-  "textFontFamily": "Noto Sans Regular",
+  "interfaceFontFamily": "Inter,Atkinson Hyperlegible Next,Minecraft Ten",
+  "textFontFamily": "iA Writer Quattro S,Atkinson Hyperlegible Next",
   "monospaceFontFamily": "Fira Code Retina",
-  "cssTheme": "Minimal",
+  "cssTheme": "Atom",
   "theme": "obsidian",
   "baseFontSize": 18
 }
