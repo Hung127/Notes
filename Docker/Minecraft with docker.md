@@ -1,4 +1,4 @@
-This is where I store what I've done to make a minecraft vanilla server
+This is where I store what I've done to make a Minecraft vanilla server
 # Pull the image
 ```shell
 docker pull marctv/minecraft-papermc-server:1.21.8-11
@@ -17,4 +17,3 @@ docker run -d \
 
 ```
 To know what `-it` is, [[Commands]]
-

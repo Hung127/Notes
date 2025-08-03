@@ -2,7 +2,7 @@
   "accentColor": "",
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Inter,Atkinson Hyperlegible Next,Minecraft Ten",
-  "textFontFamily": "iA Writer Quattro S,Atkinson Hyperlegible Next",
+  "textFontFamily": "Atkinson Hyperlegible Next,iA Writer Quattro S",
   "monospaceFontFamily": "Fira Code Retina",
   "cssTheme": "Atom",
   "theme": "obsidian",
