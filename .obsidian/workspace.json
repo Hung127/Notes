@@ -35,8 +35,7 @@
               "title": "DHCP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,12 +196,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "519cc4ea9eccd6d1",
+  "active": "76ff1f2633ebbae5",
   "lastOpenFiles": [
+    "Pasted image 20250805231038.png",
+    "Pasted image 20250805230938.png",
+    "Pasted image 20250805230626.png",
+    "Pasted image 20250805230416.png",
+    "Pasted image 20250805230259.png",
+    "Pasted image 20250805230139.png",
+    "Computer Network/DHCP.md",
+    "Computer Network/DNS.md",
     "Pasted image 20250728205620.png",
     "Pasted image 20250728204837.png",
-    "Computer Network/DNS.md",
-    "Computer Network/DHCP.md",
     "Docker/Minecraft with docker.md",
     "Docker/Images.md",
     "Computer Network/Application and Transport Protocols.md",
@@ -230,12 +235,6 @@
     "Material/Pasted image 20250726002800.png",
     "Docker",
     "Material/Pasted image 20250723210000.png",
-    "Material/Pasted image 20250723204725.png",
-    "Material/Pasted image 20250723201920.png",
-    "Material/Pasted image 20250723210646.png",
-    "Material/Pasted image 20250723210224.png",
-    "Material/Pasted image 20250723210139.png",
-    "Material/Pasted image 20250723210000 1.png",
     "JS",
     "Computer Network/Drawing/Ex2.drawio",
     "Computer Network/Drawing/Ex1.drawio",
